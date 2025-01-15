@@ -1,5 +1,6 @@
 {
   "@context": {
+    "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
@@ -50,15 +51,12 @@
       }
     }
   },
-  "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "doNotList": false,
     "givenName": "Dumpling🥟",
-    "motivations": "",
     "objectives": "1. Spread the word about Cardano governance outside of Cardano. \n2. Represent the Chinese-speaking community. ",
     "paymentAddress": "addr1qxtfphxvylsk0f4feqyglsg3qdwmzmahkk6cxmkhxnvlnsgdeu9nwp85ekdl85gnmyd2gzyvswa5wgfmu4tenfxzc3zqr7rupq",
-    "qualifications": "",
+    "qualifications": "In Cardano and making educational content since 2021",
     "references": [
       {
         "@type": "Link",
